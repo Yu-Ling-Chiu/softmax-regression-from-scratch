@@ -86,7 +86,32 @@ The program outputs:
 - Prediction results for the test dataset
 
 Example:
-End Epoch: 124
+
+End Epoch: 300
+
 Learning rate: 0.000001
+
 Train Accuracy: 93.5
+
 Validation Accuracy: 92.8
+
+![output](output.png)
+
+---
+
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+---
+
+## Learning Objectives
+
+- Understand how Softmax Regression works internally
+- Implement gradient-based optimization without deep learning frameworks
+- Gain hands-on experience with fundamental neural network training
+
+
