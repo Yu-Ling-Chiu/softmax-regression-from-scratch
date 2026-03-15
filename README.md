@@ -1,2 +1,2 @@
-# softmax-image-classifier
-Multiclass image classifier implemented from scratch using Softmax regression, cross-entropy loss, and mini-batch gradient descent in Python.
+# softmax-regression-from-scratch
+A from-scratch implementation of Softmax Regression using NumPy, trained with mini-batch gradient descent to classify MNIST digits.
